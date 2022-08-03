@@ -1,0 +1,14 @@
+.navigationbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(29, 29, 29);
+    /* justify-content:flex-start; */
+    row-gap: 30px;
+    
+}
+
+.navigationbar > .MuiSvgIcon-root {
+    background-color: gray;
+}
